@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138875704212",
+    "firebase_url": "https://clientsample-ad344.firebaseio.com",
+    "project_id": "clientsample-ad344",
+    "storage_bucket": "clientsample-ad344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138875704212:android:4d9b9f889db61ded4bf581",
+        "android_client_info": {
+          "package_name": "com.crossgeeks.socialmediaauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138875704212-r3fn85cpjgjslbg30rpd2svime2amg7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEcVa7a0SLotK2ddemI-4xSubL_uoEo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138875704212-r3fn85cpjgjslbg30rpd2svime2amg7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
